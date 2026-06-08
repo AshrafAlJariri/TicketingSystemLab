@@ -1,4 +1,4 @@
-# TicketingSystemLab
+# Ticketing-System-Lab
 
 ## Description
 
