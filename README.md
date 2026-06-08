@@ -18,3 +18,7 @@ This lab included three main activities:
 1. Simulated ticket creation
 2. Ticket closure checklist
 3. Escalation practice
+
+<h2>Lab Walk-Through</h2>
+
+## Activity 1: Simulated Ticket Creation
