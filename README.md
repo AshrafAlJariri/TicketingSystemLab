@@ -22,3 +22,9 @@ This lab included three main activities:
 <h2>Lab Walk-Through</h2>
 
 ## Activity 1: Simulated Ticket Creation
+
+<h3 align="center">Step 1: Create a Service Desk Tickets</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/OvH8oXu.png" width="80%" alt="Created service desk ticket"/>
+</p>
