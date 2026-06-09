@@ -59,6 +59,7 @@ This lab included three main activities:
   <em>
 - I created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
   </em>
+ 
 </p>
 
 ### What I Did
