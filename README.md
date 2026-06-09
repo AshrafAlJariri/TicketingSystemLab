@@ -60,3 +60,17 @@ This lab included three main activities:
 - I created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
   </em>
 </p>
+
+### What I Did
+
+I filled out a simulated ticket form with the important details a help desk technician would need. This included the ticket subject, issue description, category, priority level, and an attachment if needed.
+
+For my ticket example, I documented a user issue clearly so the support team could understand the problem and begin troubleshooting.
+
+### What I Learned
+
+I learned that ticket creation is one of the most important parts of the help desk process. A ticket needs to be clear, organized, and detailed so the technician does not have to guess what the issue is.
+
+I also learned that categories such as hardware, software, and network help organize tickets and route them to the correct support area.
+
+
