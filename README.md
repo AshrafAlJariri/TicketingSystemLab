@@ -22,7 +22,9 @@ This lab included three main activities:
 <h2>Lab Walk-Through</h2>
 
 ## Activity 1: Simulated Ticket Creation
+I created a simulated support ticket in Spiceworks to understand how tickets are created and categorized in a help desk environment.
 
+### What I Did
 <h3 align="center">Step 1: Create a Service Desk Tickets</h3>
 
 <h4 align="center">First Ticket: Network Login Issue</h4>
@@ -78,6 +80,8 @@ I also learned that categories such as hardware, software, and network help orga
 ---
 
 ## Activity 2: Ticket Closure Checklist
+I practiced the steps needed to properly resolve and close a ticket in Spiceworks.
+
 <h3 align="center">Step 2: Showcasing the ticket closure process </h3>
 
 <h4 align="center">the Closing Network Login Issue Ticket Process</h4>
@@ -131,3 +135,33 @@ I learned that closing a ticket is not just changing the status to closed. A tec
 I also learned that good closure notes help with future troubleshooting if the same issue happens again.
 
 ---
+## Activity 3: Escalation Ticket
+
+I practiced when and how to escalate a ticket when the issue is outside the basic help desk support level.
+
+### Scenario
+
+<h4 align="center">Step 3:  Escalating a Ticket Process </h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/8AwKwLn.png" width="55%" alt="Network login ticket escalation"/>
+</p>
+
+<p align="center">
+  <em>
+    What I did: I escalated the network login issue to a higher-level network/systems support team because multiple users were affected and the error pointed to domain or network authentication resources.
+  </em>
+</p>
+
+---
+### What I Did
+
+I reviewed the issue and decided that the ticket should be escalated because the problem involved access to a financial database. Since this type of issue may require database permissions or backend troubleshooting, I escalated it to the appropriate support team.
+
+I included important information in the escalation notes, such as the user affected, the system involved, the troubleshooting steps already completed, and the reason for escalation.
+
+### What I Learned
+
+I learned that escalation is important when a ticket requires support from a specialized team, such as database administrators, network administrators, or system administrators.
+
+I also learned that escalation notes should be detailed. If the notes are missing information, the next support team may have to repeat the same troubleshooting steps.
