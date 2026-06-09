@@ -24,8 +24,7 @@ This lab included three main activities:
 ## Activity 1: Simulated Ticket Creation
 I created a simulated support ticket in Spiceworks to understand how tickets are created and categorized in a help desk environment.
 
-### What I Did
-<h3 align="center">Step 1: Create a Service Desk Tickets</h3>
+<h3 align="center">Step 1:  Created Service Desk Tickets</h3>
 
 <h4 align="center">First Ticket: Network Login Issue</h4>
 
@@ -84,7 +83,7 @@ I practiced the steps needed to properly resolve and close a ticket in Spicework
 
 <h3 align="center">Step 2: Showcasing the ticket closure process </h3>
 
-<h4 align="center">the Closing Network Login Issue Ticket Process</h4>
+<h4 align="center">Closing the Network Login Issue Tickets</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/5aq8cv7.png" width="55%" alt="Ticket resolution confirmation"/>
@@ -156,9 +155,9 @@ I practiced when and how to escalate a ticket when the issue is outside the basi
 ---
 ### What I Did
 
-I reviewed the issue and decided that the ticket should be escalated because the problem involved access to a financial database. Since this type of issue may require database permissions or backend troubleshooting, I escalated it to the appropriate support team.
+I reviewed the network login issue and decided that the ticket should be escalated because multiple users were affected and the error pointed to a possible domain, authentication, or network resource issue.
 
-I included important information in the escalation notes, such as the user affected, the system involved, the troubleshooting steps already completed, and the reason for escalation.
+I included important information in the escalation notes, such as the users affected, the error message, the troubleshooting steps already completed, the business impact, and the reason for escalation.
 
 ### What I Learned
 
