@@ -26,5 +26,5 @@ This lab included three main activities:
 <h3 align="center">Step 1: Create a Service Desk Tickets</h3>
 
 <p align="center">
-  <img src="blob:"https://i.imgur.com/oqp6fi3.png" width="80%" alt="Created service desk ticket"/>
+  <img src="https://i.imgur.com/oqp6fi3.png" width="55%" alt="Created service desk ticket"/>
 </p>
