@@ -98,9 +98,9 @@ I also learned that categories such as hardware, software, and network help orga
   <img src="https://i.imgur.com/ES68ZIW.png" width="55%" alt="Hardware ticket closure confirmation"/>
 </p>
 
-<p align="center">
+<p align="side">
   <em>
-    What I did: I resolved the hardware ticket by explaining the keyboard issue, confirming the troubleshooting steps, asking the user to verify the fix, and documenting their confirmation that the hardware issue was resolved.
+   - I resolved the hardware ticket by explaining the keyboard issue, confirming the troubleshooting steps, asking the user to verify the fix, and documenting their confirmation that the hardware issue was resolved.
   </em>
 </p>
 
