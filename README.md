@@ -55,12 +55,13 @@ This lab included three main activities:
   <img src="https://i.imgur.com/FudReLs.png" width="55%" alt="Company email setup ticket"/>
 </p>
 
-<p align="side">
+<p align="Side">
   <em>
-- I created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
+  -  I created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
   </em>
- 
 </p>
+
+---
 
 ### What I Did
 
