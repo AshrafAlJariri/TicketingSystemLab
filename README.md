@@ -117,3 +117,16 @@ I also learned that categories such as hardware, software, and network help orga
 </p>
 
 ---
+### What I Did
+
+I reviewed the ticket to make sure the issue was fully resolved before closing it. I confirmed the resolution, updated the ticket notes, and added a proper resolution summary before closing the ticket.
+
+I made sure the ticket included enough information so another technician could understand what happened and how the issue was fixed.
+
+### What I Learned
+
+I learned that closing a ticket is not just changing the status to closed. A technician should confirm that the issue is resolved, document the final troubleshooting steps, and include a clear resolution note.
+
+I also learned that good closure notes help with future troubleshooting if the same issue happens again.
+
+---
