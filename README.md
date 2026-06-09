@@ -164,3 +164,21 @@ I included important information in the escalation notes, such as the users affe
 I learned that escalation is important when a ticket requires support from a specialized team, such as database administrators, network administrators, or system administrators.
 
 I also learned that escalation notes should be detailed. If the notes are missing information, the next support team may have to repeat the same troubleshooting steps.
+
+---
+
+## Skills Demonstrated
+
+- Created and managed tickets in Spiceworks
+- Categorized and prioritized support issues
+- Documented troubleshooting steps
+- Practiced ticket escalation
+- Closed tickets with resolution notes
+- Improved help desk documentation skills
+
+  ## Results
+
+By completing this lab, I successfully practiced the full ticket lifecycle inside Spiceworks. I created service desk tickets, categorized issues, assigned priorities, added troubleshooting notes, escalated a ticket, and closed tickets with resolution details.
+
+This lab helped me understand how help desk teams document and manage user issues in a real IT environment. I learned that clear ticket notes, correct categorization, proper escalation, and detailed closure notes are important for keeping support work organized and easy to follow.
+
