@@ -36,3 +36,16 @@ This lab included three main activities:
   </em>
 </p>
 
+<h4 align="center">Ticket 2: Hardware Issue</h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/zsu8FrW.png" width="55%" alt="Hardware issue ticket"/>
+  <img src="https://i.imgur.com/KX8idUo.png" width="55%" alt="Hardware issue ticket"/>
+</p>
+
+<p align="side">
+  <em>
+Created a hardware ticket for a laptop keyboard issue on Computer001, including the affected device, troubleshooting steps, business impact, priority, and hardware category.
+  </em>
+</p>
+
