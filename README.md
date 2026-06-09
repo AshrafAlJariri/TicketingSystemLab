@@ -25,7 +25,7 @@ This lab included three main activities:
 
 <h3 align="center">Step 1: Create a Service Desk Tickets</h3>
 
-<h2 align="center">First Ticket : Network Login Issue</h2>
+<h4 align="center">First Ticket : Network Login Issue</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/oqp6fi3.png" width="55%" alt="Created service desk ticket"/>
