@@ -78,6 +78,7 @@ I also learned that categories such as hardware, software, and network help orga
 ---
 
 ## Activity 2: Ticket Closure Checklist
+<h3 align="center">Step 1: Showcasing the ticket closure process </h3>
 
 <h4 align="center">the Closing Network Login Issue Ticket Process</h4>
 
