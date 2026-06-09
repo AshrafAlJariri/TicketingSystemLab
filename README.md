@@ -104,4 +104,16 @@ I also learned that categories such as hardware, software, and network help orga
   </em>
 </p>
 
+<h4 align="center">Closing the Email Setup Ticket</h4>
 
+<p align="center">
+  <img src="https://i.imgur.com/UV0AnI8.png" width="55%" alt="Email setup ticket closure confirmation"/>
+</p>
+
+<p align="center">
+  <em>
+    - I explained that the issue was caused by incorrect company email server settings, updated the email setup on the phone, verified the account connection, and documented the user’s confirmation that they could send and receive work emails.
+  </em>
+</p>
+
+---
