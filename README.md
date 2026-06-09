@@ -30,3 +30,9 @@ This lab included three main activities:
 <p align="center">
   <img src="https://i.imgur.com/oqp6fi3.png" width="55%" alt="Created service desk ticket"/>
 </p>
+<p align="side">
+  <em>
+Created the first ticket for a network login issue, including the affected users, error message, troubleshooting notes, business impact, priority, and network category.
+  </em>
+</p>
+
