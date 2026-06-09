@@ -79,4 +79,5 @@ I also learned that categories such as hardware, software, and network help orga
 
 ## Activity 2: Ticket Closure Checklist
 
+<h3 align="center">Step 2: Closing the Tickets</h3>
 
