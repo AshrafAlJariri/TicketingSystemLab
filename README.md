@@ -79,7 +79,7 @@ I also learned that categories such as hardware, software, and network help orga
 
 ## Activity 2: Ticket Closure Checklist
 
-<h4 align="center">Step 2: the Closing Tickets Process</h4>
+<h4 align="center">the Closing Network Login Issue Ticket Process</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/5aq8cv7.png" width="55%" alt="Ticket resolution confirmation"/>
@@ -92,4 +92,16 @@ I also learned that categories such as hardware, software, and network help orga
   </em>
 </p>
 
----
+<h4 align="center">Closing the Hardware Issue Ticket</h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/ES68ZIW.png" width="55%" alt="Hardware ticket closure confirmation"/>
+</p>
+
+<p align="center">
+  <em>
+    What I did: I resolved the hardware ticket by explaining the keyboard issue, confirming the troubleshooting steps, asking the user to verify the fix, and documenting their confirmation that the hardware issue was resolved.
+  </em>
+</p>
+
+
