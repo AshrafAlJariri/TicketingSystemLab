@@ -75,4 +75,8 @@ I learned that ticket creation is one of the most important parts of the help de
 
 I also learned that categories such as hardware, software, and network help organize tickets and route them to the correct support area.
 
+---
+
+## Activity 2: Ticket Closure Checklist
+
 
