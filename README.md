@@ -81,3 +81,17 @@ I also learned that categories such as hardware, software, and network help orga
 
 <h3 align="center">Step 2: Closing the Tickets</h3>
 
+<h3 align="center">Step 2: I Closed the Tickets</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/5aq8cv7.png" width="55%" alt="Ticket resolution confirmation"/>
+  <img src="https://i.imgur.com/RrGjfuL.png" width="55%" alt="Ticket resolution confirmation"/>
+</p>
+
+<p align="center">
+  <em>
+- I resolved the ticket by explaining the fix, asking the user to verify access, and documenting their confirmation that the network login issue was fixed.
+  </em>
+</p>
+
+---
