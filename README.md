@@ -86,7 +86,7 @@ I also learned that categories such as hardware, software, and network help orga
   <img src="https://i.imgur.com/RrGjfuL.png" width="55%" alt="Ticket resolution confirmation"/>
 </p>
 
-<p align="center">
+<p align="side">
   <em>
 - I resolved the ticket by explaining the fix, asking the user to verify access, and documenting their confirmation that the network login issue was fixed.
   </em>
