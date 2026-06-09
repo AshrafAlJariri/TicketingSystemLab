@@ -45,7 +45,7 @@ This lab included three main activities:
 
 <p align="side">
   <em>
-Created a hardware ticket for a laptop keyboard issue on Computer001, including the affected device, troubleshooting steps, business impact, priority, and hardware category.
+- Created a hardware ticket for a laptop keyboard issue on Computer001, including the affected device, troubleshooting steps, business impact, priority, and hardware category.
   </em>
 </p>
 
