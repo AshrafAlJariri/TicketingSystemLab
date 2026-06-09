@@ -110,7 +110,7 @@ I also learned that categories such as hardware, software, and network help orga
   <img src="https://i.imgur.com/UV0AnI8.png" width="55%" alt="Email setup ticket closure confirmation"/>
 </p>
 
-<p align="center">
+<p align="side">
   <em>
     - I explained that the issue was caused by incorrect company email server settings, updated the email setup on the phone, verified the account connection, and documented the user’s confirmation that they could send and receive work emails.
   </em>
