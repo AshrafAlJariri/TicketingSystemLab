@@ -48,4 +48,15 @@ This lab included three main activities:
 - Created a hardware ticket for a laptop keyboard issue on Computer001, including the affected device, troubleshooting steps, business impact, priority, and hardware category.
   </em>
 </p>
+<h4 align="center">Ticket 3: Company Email Setup Issue</h4>
 
+<p align="center">
+  <img src="https://i.imgur.com/TRwfAbQ.png" width="55%" alt="Company email setup ticket"/>
+  <img src="https://i.imgur.com/FudReLs.png" width="55%" alt="Company email setup ticket"/>
+</p>
+
+<p align="center">
+  <em>
+    Created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
+  </em>
+</p>
