@@ -32,7 +32,7 @@ This lab included three main activities:
 </p>
 <p align="side">
   <em>
-Created the first ticket for a network login issue, including the affected users, error message, troubleshooting notes, business impact, priority, and network category.
+- Created the first ticket for a network login issue, including the affected users, error message, troubleshooting notes, business impact, priority, and network category.
   </em>
 </p>
 
