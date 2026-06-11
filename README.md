@@ -31,7 +31,7 @@ I created a simulated support ticket in Spiceworks to understand how tickets are
 <p align="center">
   <img src="https://i.imgur.com/oqp6fi3.png" width="55%" alt="Created service desk ticket"/>
 </p>
-<p align="side">
+<p align="center">
   <em>
 - Created the first ticket for a network login issue, including the affected users, error message, troubleshooting notes, business impact, priority, and network category.
   </em>
