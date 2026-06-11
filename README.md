@@ -90,7 +90,7 @@ I practiced the steps needed to properly resolve and close a ticket in Spicework
   <img src="https://i.imgur.com/RrGjfuL.png" width="55%" alt="Ticket resolution confirmation"/>
 </p>
 
-<p align="side">
+<p align="center">
   <em>
 - I resolved the ticket by explaining the fix, asking the user to verify access, and documenting their confirmation that the network login issue was fixed.
   </em>
@@ -102,7 +102,7 @@ I practiced the steps needed to properly resolve and close a ticket in Spicework
   <img src="https://i.imgur.com/ES68ZIW.png" width="55%" alt="Hardware ticket closure confirmation"/>
 </p>
 
-<p align="side">
+<p align="center">
   <em>
    - I resolved the hardware ticket by explaining the keyboard issue, confirming the troubleshooting steps, asking the user to verify the fix, and documenting their confirmation that the hardware issue was resolved.
   </em>
@@ -114,7 +114,7 @@ I practiced the steps needed to properly resolve and close a ticket in Spicework
   <img src="https://i.imgur.com/UV0AnI8.png" width="55%" alt="Email setup ticket closure confirmation"/>
 </p>
 
-<p align="side">
+<p align="center">
   <em>
     - I explained that the issue was caused by incorrect company email server settings, updated the email setup on the phone, verified the account connection, and documented the user’s confirmation that they could send and receive work emails.
   </em>
