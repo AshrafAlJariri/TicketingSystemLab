@@ -44,7 +44,7 @@ I created a simulated support ticket in Spiceworks to understand how tickets are
   <img src="https://i.imgur.com/KX8idUo.png" width="55%" alt="Hardware issue ticket"/>
 </p>
 
-<p align="side">
+<p align="center">
   <em>
 -  I have made a hardware ticket for a laptop keyboard issue on Computer001, including the affected device, troubleshooting steps, business impact, priority, and hardware category.
   </em>
@@ -56,7 +56,7 @@ I created a simulated support ticket in Spiceworks to understand how tickets are
   <img src="https://i.imgur.com/FudReLs.png" width="55%" alt="Company email setup ticket"/>
 </p>
 
-<p align="Side">
+<p align="center">
   <em>
   -  I created a ticket for a new phone email setup issue, including the user’s device problem, troubleshooting checks, business impact, priority, and email category.
   </em>
